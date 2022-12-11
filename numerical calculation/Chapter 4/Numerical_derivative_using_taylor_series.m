@@ -1,5 +1,5 @@
 % Numerical derivation using taylor series
-% Amirhossein Chami
+% made by Amirhossein Chami
 close;
 clear all;
 clc;

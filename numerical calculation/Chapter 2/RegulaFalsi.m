@@ -1,5 +1,5 @@
 % Regula falsi Method
-% Amirhossein Chami
+% made by Amirhossein Chami
 clear;
 clc;
 syms x;

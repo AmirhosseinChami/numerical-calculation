@@ -1,5 +1,5 @@
 % Newton cotes Integration
-% Amirhossein Chami
+% made by Amirhossein Chami
 close;
 clear all;
 clc;

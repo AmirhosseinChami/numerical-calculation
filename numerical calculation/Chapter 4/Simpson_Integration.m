@@ -1,5 +1,5 @@
 % Simpson's Integration
-% Amirhossein Chami
+% made by Amirhossein Chami
 close; 
 clear all;
 clc;

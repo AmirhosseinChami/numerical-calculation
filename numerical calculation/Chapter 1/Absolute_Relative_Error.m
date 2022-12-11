@@ -1,5 +1,5 @@
 % Absolute and Rlative Error
-% Amirhossein Chami
+% made by Amirhossein Chami
 close;
 clear all;
 clc;

@@ -1,5 +1,5 @@
 % Newton Forward Interpolation
-% Amirhossein Chami
+% made by Amirhossein Chami
 close;
 clear all;
 clc;

@@ -1,5 +1,5 @@
 % Newton Divided Difference Interpolation (Newton's formula)
-% Amirhossein Chami
+% made by Amirhossein Chami
 close;
 clear all;
 clc;

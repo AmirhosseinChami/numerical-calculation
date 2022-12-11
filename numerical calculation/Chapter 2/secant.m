@@ -1,5 +1,5 @@
 % Secant Method
-% Amirhossein Chami
+% made by Amirhossein Chami
 close;
 clear all;
 clc;

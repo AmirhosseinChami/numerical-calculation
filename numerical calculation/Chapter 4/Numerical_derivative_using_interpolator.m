@@ -1,5 +1,5 @@
 % Numerical derivative using polynomial interpolator
-% Amirhossein Chami
+% made by Amirhossein Chami
 close;
 clear all;
 clc;
